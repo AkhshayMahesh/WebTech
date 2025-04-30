@@ -79,9 +79,3 @@ The Backend API will be running at `localhost:5000`.
 > 106122067 - Kavin P  
 
 > 106122103 - Murthi R
-
-
-# Deployment
-* Render - server side
-* Netlify - client side
-
